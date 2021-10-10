@@ -1,4 +1,4 @@
-function translition(hello)
+function translition(language)
 if (language ===english){
 console.log ("hello world");   
 } 
